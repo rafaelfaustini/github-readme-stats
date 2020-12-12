@@ -262,6 +262,12 @@ const themes = {
     icon_color: "a64833",
     text_color: "d9c8a9",
     bg_color: "402b23"
+  },
+  redtouch: {
+    title_color: "ff1744",
+    icon_color: "b71c1c",
+    text_color: "e53935",
+    bg_color: "424242"
   }
 };
 
